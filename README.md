@@ -1,2 +1,1 @@
-"# NexterRealEstate"  
-"# NexterRealEstate" 
+"# NexterRealEstate"
